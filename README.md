@@ -1,1 +1,1 @@
-# News-Website-
+# TechNews-Website
